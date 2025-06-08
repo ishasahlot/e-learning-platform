@@ -27,8 +27,8 @@ e-learning-platform/
 └── README.md
 
 
-## 🚀 Live Demo
-**Coming soon...** (You can deploy this on GitHub Pages or Netlify)
+## 🚀 Live Demo  
+🔗 [Click to Visit](https://ishasahlot.github.io/e-learning-platform/)
 
 ## 🤝 Team Contribution
 This project was created as part of a group college assignment.  
